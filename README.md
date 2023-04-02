@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergiysuslo
-- :mortar_board: Graduate in BSc Computational Engineering at FAU
+- :mortar_board: Graduate in Computational Engineering at FAU
 - 👀 I’m interested in web development, programming and sports.
 - 📫 sergiy.suslo@gmail.com
 
