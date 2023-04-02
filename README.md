@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sergiysuslo
 - :mortar_board: Graduate in BSc Computational Engineering at FAU
 - 👀 I’m interested in web development, programming and sports.
-- 🌱 I’m currently learning the Spring/Spring Boot framework.
 - 📫 sergiy.suslo@gmail.com
 
 <!---
